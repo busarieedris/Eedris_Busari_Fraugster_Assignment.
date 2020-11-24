@@ -2,17 +2,13 @@
 This is the solution to the Assignment from Fraugster GmbH
 
 
-The files available are:
-The cleaned data  (The data after cleaning)    : clean_realestate_fraugster_case.csv    
+The folders available are:
+The data Folder: This contains both the initial data (clean_realestate_fraugster_case.csv) and the cleaned data (clean_realestate_fraugster_case.csv )    :    
 
-The documentation  : Eedris_Busari_Fraugster_Assignment.pdf     
+The documentation Folder : This contains the documentation to the solution (Eedris_Busari_Fraugster_Assignment.pdf) and the instruction to the assignment (python_test_instructions)    
 
-The code (implementation) :Eedris_Busari_Fraugster_Assignment.ipynb or Eedris_Busari_Fraugster_Assignment.py
-
-The dataset         : clean_realestate_fraugster_case.csv
-
-The instruction of the assignment     : python_test_instructions
+The code : It contains the implementation as both .ipynb file (Eedris_Busari_Fraugster_Assignment.ipynb ) and .py file (Eedris_Busari_Fraugster_Assignment.py)
 
 
-To run this code:
+How to:
 Simply run the Eedris_Busari_Fraugster_Assignment.py file or upload and run the Eedris_Busari_Fraugster_Assignment.ipynb file on a jupyter notebook
