@@ -2,7 +2,7 @@
 This is the solution to the Assignment
 
 The folders available are:
-The data Folder: This contains both the initial data (clean_realestate_*_*.csv) and the cleaned data (clean_realestate_fraugster_case.csv )    :    
+The data Folder: This contains both the initial data (clean_realestate_*_*.csv) and the cleaned data (clean_realestate_*_case.csv )    :    
 
 The documentation Folder : This contains the documentation to the solution (Eedris_Busari_*_*.pdf) and the instruction to the assignment (python_test_instructions)    
 
