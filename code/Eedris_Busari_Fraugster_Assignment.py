@@ -12,7 +12,7 @@
 # all the data into the memory. An alternative is to chunk the data but it is not as efficient,comparatively
 # because of the concatenation required at the end of the chunk process.
 import pandas as pd
-data=pd.read_csv('realestate_fraugster_case.csv',sep=';',index_col=False)
+data=pd.read_csv('realestate.csv',sep=';',index_col=False)
 data.head(10)
 
 
@@ -347,14 +347,14 @@ new_data.isnull().values.any()
 # Save the cleaned data with a better interactive name. This can be done with the '.to_csv' command
 # But the instruction says 'write a new csv with a similar name with the cleaned data'.That is the reason for changing the cleaned data
 # with a better name first.
-clean_realestate_fraugster_case=new_data.copy()
-clean_realestate_fraugster_case.to_csv('clean_realestate_fraugster_case.csv',index=False,sep=';')
+clean_realestate=new_data.copy()
+clean_realestate.to_csv('clean_realestate.csv',index=False,sep=';')
 
 
 # In[27]:
 
 
-clean_realestate_fraugster_case.info()
+clean_realestate.info()
 
 
 # .
